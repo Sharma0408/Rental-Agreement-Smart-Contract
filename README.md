@@ -161,8 +161,8 @@ MIT License - see LICENSE file for details
 
 For questions, suggestions, or collaboration opportunities, please reach out through:
 - GitHub Issues
-- Email: [your-email@example.com]
-- Discord: [your-discord-server]
+- Email: divyasharma04aug@gmail.com
+
 
 ---
 
